@@ -1,0 +1,21 @@
+{
+    "name": "umich-theme",
+    "displayName": "umich theme",
+    "description": "Go Blue!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "UMich Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/UMich Theme-color-theme.json"
+            }
+        ]
+    }
+}

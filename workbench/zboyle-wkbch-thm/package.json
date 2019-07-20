@@ -1,5 +1,6 @@
 {
     "name": "zboyle-wkbch-thm",
+    "publisher": "zacharyboyle",
     "displayName": "zboyle workbench theme",
     "description": "custom theme by zboyle",
     "version": "0.0.1",
@@ -17,5 +18,9 @@
                 "path": "./themes/zboyle theme-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zaboyle/vscode-themes"
     }
 }
