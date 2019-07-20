@@ -1,7 +1,5 @@
 # VSCode Themes
 
-Some custom themes for VSCode IDE:
-
 ## zboyle workbench theme
 
 ![image](https://user-images.githubusercontent.com/33520963/61575031-d5c74980-aa94-11e9-83e5-ce978800b2fe.png)
