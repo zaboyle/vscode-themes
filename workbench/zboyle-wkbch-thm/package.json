@@ -1,0 +1,21 @@
+{
+    "name": "zboyle-wkbch-thm",
+    "displayName": "zboyle workbench theme",
+    "description": "custom theme by zboyle",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "zboyle theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zboyle theme-color-theme.json"
+            }
+        ]
+    }
+}
